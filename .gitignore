@@ -2,7 +2,7 @@
 test.js
 coverage/
 build/
-npm-debug.log
+
 .DS_Store
 tmp/
 .idea
